@@ -1,0 +1,69 @@
+nav{
+    display: flex;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: green;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    padding: 0 5px;
+    color: black;
+    font-size: 25px;
+}
+
+img[src="https://www.panacloud.ai/assets/images/global/logo-color.png"]{
+    padding-top: 5px;
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.main-img{
+    margin-top: 20px;
+    width: 100%;
+}
+.footer{
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: green;
+}
+.footer>h3{
+    text-align: center;
+}
+
+.about{
+    display: flex;
+    padding: 10px;
+}
+
+section>p{
+    padding: 10px;
+}
+
+.iframes{
+    margin:20px;
+}
+.portfolio{
+    display: flex;
+    margin: 10px 0px;
+}
+img[src="https://www.ntaskmanager.com/wp-content/uploads/2019/07/3.png"]{
+    width: 550px;
+}
+form{
+    padding: 10px;
+}
+.map{
+    margin: 10px;
+}
